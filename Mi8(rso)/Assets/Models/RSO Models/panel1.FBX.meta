@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 8a5730b63fa57274e82f2a095828017f
+timeCreated: 1586277405
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle.001
+    100004: Circle.001_MeshPart0
+    100006: Circle.001_MeshPart1
+    100008: Circle.001_MeshPart2
+    100010: Circle.001_MeshPart3
+    100012: Circle_MeshPart0
+    100014: Circle_MeshPart1
+    100016: Circle_MeshPart10
+    100018: Circle_MeshPart11
+    100020: Circle_MeshPart12
+    100022: Circle_MeshPart13
+    100024: Circle_MeshPart14
+    100026: Circle_MeshPart2
+    100028: Circle_MeshPart3
+    100030: Circle_MeshPart4
+    100032: Circle_MeshPart5
+    100034: Circle_MeshPart6
+    100036: Circle_MeshPart7
+    100038: Circle_MeshPart8
+    100040: Circle_MeshPart9
+    100042: Cube
+    100044: Cube.001
+    100046: Cube.002
+    100048: Cube.003
+    100050: Cube.004
+    100052: Cube.005
+    100054: //RootNode
+    100056: Plane
+    400000: Circle
+    400002: Circle.001
+    400004: Circle.001_MeshPart0
+    400006: Circle.001_MeshPart1
+    400008: Circle.001_MeshPart2
+    400010: Circle.001_MeshPart3
+    400012: Circle_MeshPart0
+    400014: Circle_MeshPart1
+    400016: Circle_MeshPart10
+    400018: Circle_MeshPart11
+    400020: Circle_MeshPart12
+    400022: Circle_MeshPart13
+    400024: Circle_MeshPart14
+    400026: Circle_MeshPart2
+    400028: Circle_MeshPart3
+    400030: Circle_MeshPart4
+    400032: Circle_MeshPart5
+    400034: Circle_MeshPart6
+    400036: Circle_MeshPart7
+    400038: Circle_MeshPart8
+    400040: Circle_MeshPart9
+    400042: Cube
+    400044: Cube.001
+    400046: Cube.002
+    400048: Cube.003
+    400050: Cube.004
+    400052: Cube.005
+    400054: //RootNode
+    400056: Plane
+    2300000: Circle.001_MeshPart0
+    2300002: Circle.001_MeshPart1
+    2300004: Circle.001_MeshPart2
+    2300006: Circle.001_MeshPart3
+    2300008: Circle_MeshPart0
+    2300010: Circle_MeshPart1
+    2300012: Circle_MeshPart10
+    2300014: Circle_MeshPart11
+    2300016: Circle_MeshPart12
+    2300018: Circle_MeshPart13
+    2300020: Circle_MeshPart14
+    2300022: Circle_MeshPart2
+    2300024: Circle_MeshPart3
+    2300026: Circle_MeshPart4
+    2300028: Circle_MeshPart5
+    2300030: Circle_MeshPart6
+    2300032: Circle_MeshPart7
+    2300034: Circle_MeshPart8
+    2300036: Circle_MeshPart9
+    2300038: Cube
+    2300040: Cube.001
+    2300042: Cube.002
+    2300044: Cube.003
+    2300046: Cube.005
+    2300048: Plane
+    3300000: Circle.001_MeshPart0
+    3300002: Circle.001_MeshPart1
+    3300004: Circle.001_MeshPart2
+    3300006: Circle.001_MeshPart3
+    3300008: Circle_MeshPart0
+    3300010: Circle_MeshPart1
+    3300012: Circle_MeshPart10
+    3300014: Circle_MeshPart11
+    3300016: Circle_MeshPart12
+    3300018: Circle_MeshPart13
+    3300020: Circle_MeshPart14
+    3300022: Circle_MeshPart2
+    3300024: Circle_MeshPart3
+    3300026: Circle_MeshPart4
+    3300028: Circle_MeshPart5
+    3300030: Circle_MeshPart6
+    3300032: Circle_MeshPart7
+    3300034: Circle_MeshPart8
+    3300036: Circle_MeshPart9
+    3300038: Cube
+    3300040: Cube.001
+    3300042: Cube.002
+    3300044: Cube.003
+    3300046: Cube.005
+    3300048: Plane
+    4300000: Plane
+    4300002: Cube
+    4300004: Cube.001
+    4300006: Cube.002
+    4300008: Cube.003
+    4300010: Cube.005
+    4300012: Circle.001_MeshPart0
+    4300014: Circle.001_MeshPart1
+    4300016: Circle.001_MeshPart2
+    4300018: Circle.001_MeshPart3
+    4300020: Circle_MeshPart0
+    4300022: Circle_MeshPart1
+    4300024: Circle_MeshPart2
+    4300026: Circle_MeshPart3
+    4300028: Circle_MeshPart4
+    4300030: Circle_MeshPart5
+    4300032: Circle_MeshPart6
+    4300034: Circle_MeshPart7
+    4300036: Circle_MeshPart8
+    4300038: Circle_MeshPart9
+    4300040: Circle_MeshPart10
+    4300042: Circle_MeshPart11
+    4300044: Circle_MeshPart12
+    4300046: Circle_MeshPart13
+    4300048: Circle_MeshPart14
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
